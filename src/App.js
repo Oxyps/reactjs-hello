@@ -5,7 +5,7 @@ function App() {
   return(
     <div className={"main"}>
       <div className={"title"}>
-        <h1>Hola</h1>
+        <h1>Hello</h1>
         <span role="img">🤙🏻</span>
       </div>
 
